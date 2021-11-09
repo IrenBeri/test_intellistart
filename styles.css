@@ -1,0 +1,64 @@
+header, section, footer, aside, nav, article, p, figure, figcaption,
+hgroup{
+ display: block;
+}
+
+.images {
+    float: center;
+    border-radius: 100px;
+    margin: 20px 210px 20px 20px;
+}
+
+.headers {
+    font-size: 30px;
+    padding: 0px 40px;
+}
+
+.left {
+    width: 30%;
+    float: left;
+    margin: 20px 10px;
+}
+
+.right {
+    width: 65%;
+    float: right;
+    margin: 0px 10px;
+}
+
+.texts {
+    text-align: justify;
+    padding: 20px 40px;
+}
+
+ul {
+    text-align: justify;
+    margin: 0px 30px;
+}
+
+li {
+    margin: 10px 40px;
+}
+
+.borderzz {
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 1px;
+}
+
+.logos {
+    margin: 40px;
+}
+
+body {
+    font-family: 'Verdana';
+    text-align: center;
+    width: 1400 px;
+    background: #FFFAFA;
+    background-size: cover;
+}
+
+/* .bgimages {
+
+    opacity: 20%;
+} */
